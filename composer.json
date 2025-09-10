@@ -1,0 +1,18 @@
+{
+    "name": "hoanglong2905/php-utils",
+    "description": "A simple PHP package for php utilities.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ArrayUtils\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hoang Long",
+            "email": "hoanglong2905@gmail.com"
+        }
+    ],
+    "require": {}
+}
