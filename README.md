@@ -5,7 +5,7 @@ Một package PHP đơn giản để làm việc với mảng.
 ## Cài đặt
 
 ```bash
-composer require your-vendor/array-utils
+composer require hoanglong2905/php-utils
 ```
 
 ## Sử dụng
@@ -28,4 +28,4 @@ $isAssoc = ArrayHelper::isAssoc(['a' => 1, 'b' => 2]);
 ```
 
 ## Tác giả
-- Your Name <your@email.com>
+- Hoang Long <hoanglong2905@gmail.com>
