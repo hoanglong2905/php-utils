@@ -13,7 +13,7 @@ composer require hoanglong2905/php-utils
 ```php
 require 'vendor/autoload.php';
 
-use ArrayUtils\ArrayHelper;
+use PHPUtils\ArrayHelper;
 
 $array = [1, 2, 3];
 
@@ -26,6 +26,5 @@ $last = ArrayHelper::last($array);
 // Kiểm tra mảng liên kết
 $isAssoc = ArrayHelper::isAssoc(['a' => 1, 'b' => 2]);
 ```
-
 ## Tác giả
 - Hoang Long <hoanglong2905@gmail.com>

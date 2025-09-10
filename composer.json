@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "ArrayUtils\\": "src/"
+            "PHPUtils\\": "src/"
         }
     },
     "authors": [
